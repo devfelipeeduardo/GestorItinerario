@@ -40,3 +40,4 @@ C:\Users\Felipe\source\repos\GestorItinerario\obj\Debug\net8.0\refint\itinerario
 C:\Users\Felipe\source\repos\GestorItinerario\obj\Debug\net8.0\itinerario.pdb
 C:\Users\Felipe\source\repos\GestorItinerario\obj\Debug\net8.0\itinerario.genruntimeconfig.cache
 C:\Users\Felipe\source\repos\GestorItinerario\obj\Debug\net8.0\ref\itinerario.dll
+C:\Users\Felipe\source\repos\GestorItinerario\obj\Debug\net8.0\itinerario.sourcelink.json

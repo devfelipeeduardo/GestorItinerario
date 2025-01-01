@@ -1,3 +1,5 @@
+using System.Text.RegularExpressions;
+
 namespace GestorDeItinerario
 {
     public class Itinerario
@@ -10,10 +12,10 @@ namespace GestorDeItinerario
         {
             MarcasItinerario = new List<string>();
             Motorista = motorista;
-            Lombador= lombador;
+            Lombador = lombador;
         }
 
-        public void AdicionarMarca()
+        public void AdicionarListaDeMarcas()
         {
             while (true)
             {
@@ -27,21 +29,33 @@ namespace GestorDeItinerario
                 }
                 else
                 {
-                    MarcasItinerario.Add(marca);
+                    AdicionaMarca(marca);
                 }
                 Console.Clear();
             }
         }
 
+        public void AdicionaMarca(string marca)
+        {
+            MarcasItinerario.Add(marca);
+        }
+
+        public void RemoverMarca(string marca)
+        {
+            MarcasItinerario.Remove(marca);
+        }
+
         public void MostraItinerario()
         {
-            Console.WriteLine($"Motorista: {Motorista}");
-            Console.WriteLine($"Lombador: {Lombador}");
-            Console.WriteLine();
+            Console.WriteLine( "|----------------------|");
+            Console.WriteLine($"|Motorista: {Motorista}");
+            Console.WriteLine($"|Lombador: {Lombador}  ");
+            Console.WriteLine( "|----------------------|");
             for (int i = 0; i < MarcasItinerario.Count; i++)
             {
-                Console.WriteLine($"|{i + 1}° {MarcasItinerario[i]}|");
+                Console.WriteLine($"|{i + 1}° {MarcasItinerario[i]}");
             }
+            Console.WriteLine();
         }
     }
 }
