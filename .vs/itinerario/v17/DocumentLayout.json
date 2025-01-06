@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Felipe\\source\\repos\\GestorItinerario\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F369844D-CB9B-465C-943D-55BE28EE322A}|itinerario.csproj|c:\\users\\felipe\\source\\repos\\gestoritinerario\\itinerario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F369844D-CB9B-465C-943D-55BE28EE322A}|itinerario.csproj|solutionrelative:itinerario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F369844D-CB9B-465C-943D-55BE28EE322A}|itinerario.csproj|c:\\users\\felipe\\source\\repos\\gestoritinerario\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F369844D-CB9B-465C-943D-55BE28EE322A}|itinerario.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F369844D-CB9B-465C-943D-55BE28EE322A}|itinerario.csproj|c:\\users\\felipe\\source\\repos\\gestoritinerario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F369844D-CB9B-465C-943D-55BE28EE322A}|itinerario.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F369844D-CB9B-465C-943D-55BE28EE322A}|itinerario.csproj|c:\\users\\felipe\\source\\repos\\gestoritinerario\\itinerario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F369844D-CB9B-465C-943D-55BE28EE322A}|itinerario.csproj|solutionrelative:itinerario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F369844D-CB9B-465C-943D-55BE28EE322A}|itinerario.csproj|c:\\users\\felipe\\source\\repos\\gestoritinerario\\grupoitinerarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,16 +30,15 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\GestorItinerario\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Felipe\\source\\repos\\GestorItinerario\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-27T00:14:16.708Z",
-              "IsPinned": true,
               "EditorCaption": ""
             },
             {
@@ -50,37 +49,35 @@
               "RelativeDocumentMoniker": "GrupoItinerarios.cs",
               "ToolTip": "C:\\Users\\Felipe\\source\\repos\\GestorItinerario\\GrupoItinerarios.cs",
               "RelativeToolTip": "GrupoItinerarios.cs",
-              "ViewState": "AQIAADwAAAAAAAAAAAAowFAAAAAuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-29T21:48:12.349Z",
-              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Menu.cs",
-              "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\GestorItinerario\\Menu.cs",
-              "RelativeDocumentMoniker": "Menu.cs",
-              "ToolTip": "C:\\Users\\Felipe\\source\\repos\\GestorItinerario\\Menu.cs",
-              "RelativeToolTip": "Menu.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAYwCcAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T21:37:28.182Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Itinerario.cs",
               "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\GestorItinerario\\Itinerario.cs",
               "RelativeDocumentMoniker": "Itinerario.cs",
               "ToolTip": "C:\\Users\\Felipe\\source\\repos\\GestorItinerario\\Itinerario.cs",
               "RelativeToolTip": "Itinerario.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAgwDkAAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-29T21:56:51.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\GestorItinerario\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "C:\\Users\\Felipe\\source\\repos\\GestorItinerario\\Menu.cs",
+              "RelativeToolTip": "Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T21:37:28.182Z",
               "EditorCaption": ""
             }
           ]
